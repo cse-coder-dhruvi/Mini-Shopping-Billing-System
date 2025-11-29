@@ -1,0 +1,2 @@
+# Mini-Shopping-Billing-System
+MY MAJOR PROJECT ON C PROGRAMMING FOR 1ST SEMESTER.
