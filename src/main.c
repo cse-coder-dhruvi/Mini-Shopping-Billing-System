@@ -9,8 +9,8 @@ int main() {
     printf("2. View bill\n");
     printf("3. Exit\n");
     printf("Enter your choice: ");
-    scanf("%d", &choice);  
-    while(getchar()!='\n'); 
+    scanf("%d", &choice);
+     
     switch(choice){
         case 1:
             addItem();
